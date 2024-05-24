@@ -1,0 +1,5 @@
+Name: John Doe
+Phone Numer: 123-456-7890
+Email: johndoe@example.com
+Username: johndoe
+Password: securepassword123!
